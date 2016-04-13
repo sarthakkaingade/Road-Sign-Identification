@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='test/41.jpg'>
+    <box top='56' left='32' width='147' height='140'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/42.jpg'>
+    <box top='61' left='14' width='170' height='168'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/43.jpg'>
+    <box top='136' left='53' width='134' height='132'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/44.jpg'>
+    <box top='76' left='35' width='185' height='186'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/45.jpg'>
+    <box top='145' left='58' width='116' height='117'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/46.jpg'>
+    <box top='74' left='50' width='161' height='166'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/47.jpg'>
+    <box top='51' left='16' width='176' height='177'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/48.jpg'>
+    <box top='93' left='86' width='114' height='109'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/49.jpg'>
+    <box top='130' left='73' width='112' height='115'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/50.jpg'>
+    <box top='45' left='29' width='170' height='175'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/51.jpg'>
+    <box top='59' left='34' width='152' height='160'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/52.jpg'>
+    <box top='36' left='38' width='179' height='170'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/53.jpg'>
+    <box top='122' left='42' width='153' height='154'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/54.jpg'>
+    <box top='3' left='25' width='180' height='179'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/55.jpg'>
+    <box top='96' left='36' width='148' height='155'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/56.jpg'>
+    <box top='37' left='15' width='204' height='204'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/57.jpg'>
+    <box top='108' left='30' width='166' height='164'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/58.jpg'>
+    <box top='90' left='60' width='117' height='116'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/59.jpg'>
+    <box top='81' left='38' width='154' height='154'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/60.jpg'>
+    <box top='65' left='30' width='172' height='182'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/61.jpg'>
+    <box top='28' left='12' width='195' height='196'>
+      <label>STOP</label>
+    </box>
+  </image>
+  <image file='test/62.jpg'>
+    <box top='48' left='18' width='195' height='190'>
+      <label>STOP</label>
+    </box>
+  </image>
+</images>
+</dataset>

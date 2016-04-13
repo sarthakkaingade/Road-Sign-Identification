@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='train/10.jpg'>
+    <box top='41' left='57' width='63' height='79'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/11.jpg'>
+    <box top='31' left='103' width='71' height='84'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/12.jpg'>
+    <box top='21' left='75' width='92' height='109'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/13.jpg'>
+    <box top='14' left='43' width='51' height='56'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/14.jpg'>
+    <box top='82' left='199' width='20' height='18'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/15.jpg'>
+    <box top='10' left='36' width='109' height='134'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/16.jpg'>
+    <box top='12' left='38' width='146' height='194'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/17.jpg'>
+    <box top='20' left='156' width='100' height='123'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/18.jpg'>
+    <box top='8' left='123' width='78' height='91'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/19.jpg'>
+    <box top='7' left='85' width='45' height='95'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/1.jpg'>
+    <box top='7' left='82' width='72' height='89'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/20.jpg'>
+    <box top='-1' left='175' width='99' height='99'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/21.jpg'>
+    <box top='56' left='82' width='81' height='95'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/22.jpg'>
+    <box top='54' left='29' width='66' height='80'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/23.jpg'>
+    <box top='30' left='67' width='45' height='74'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/24.jpg'>
+    <box top='15' left='179' width='65' height='85'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/25.jpg'>
+    <box top='15' left='156' width='48' height='60'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/26.jpg'>
+    <box top='61' left='22' width='33' height='44'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/27.jpg'>
+    <box top='82' left='129' width='35' height='39'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/28.jpg'>
+    <box top='84' left='274' width='23' height='25'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/29.jpg'>
+    <box top='18' left='149' width='29' height='29'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/2.jpg'>
+    <box top='14' left='48' width='114' height='150'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/30.jpg'>
+    <box top='72' left='122' width='28' height='30'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/31.jpg'>
+    <box top='29' left='75' width='50' height='58'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/32.jpg'>
+    <box top='2' left='69' width='122' height='179'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/33.jpg'>
+    <box top='26' left='164' width='41' height='50'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/34.jpg'>
+    <box top='29' left='78' width='107' height='124'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/35.jpg'>
+    <box top='37' left='184' width='68' height='75'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/36.jpg'>
+    <box top='13' left='30' width='78' height='90'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/37.jpg'>
+    <box top='19' left='235' width='29' height='34'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/38.jpg'>
+    <box top='46' left='80' width='64' height='109'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/39.jpg'>
+    <box top='17' left='182' width='47' height='55'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/3.jpg'>
+    <box top='9' left='184' width='68' height='89'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/40.jpg'>
+    <box top='40' left='187' width='38' height='43'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/4.jpg'>
+    <box top='2' left='236' width='67' height='83'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/5.jpg'>
+    <box top='20' left='48' width='98' height='122'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/6.jpg'>
+    <box top='13' left='201' width='75' height='91'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/7.jpg'>
+    <box top='25' left='177' width='44' height='46'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/8.jpg'>
+    <box top='37' left='174' width='35' height='42'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='train/9.jpg'>
+    <box top='30' left='64' width='61' height='93'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+</images>
+</dataset>

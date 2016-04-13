@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='test/21.jpg'>
+    <box top='62' left='108' width='105' height='89'>
+      <label>YEILD</label>
+    </box>
+  </image>
+  <image file='test/22.jpg'>
+    <box top='70' left='89' width='55' height='46'>
+      <label>YEILD</label>
+    </box>
+  </image>
+  <image file='test/23.jpg'>
+    <box top='76' left='207' width='29' height='23'>
+      <label>YEILD</label>
+    </box>
+  </image>
+  <image file='test/24.jpg'>
+    <box top='45' left='190' width='36' height='32'>
+      <label>YEILD</label>
+    </box>
+  </image>
+  <image file='test/25.jpg'>
+    <box top='56' left='33' width='105' height='95'>
+      <label>YEILD</label>
+    </box>
+  </image>
+  <image file='test/26.jpg'>
+    <box top='14' left='29' width='125' height='136'>
+      <label>YEILD</label>
+    </box>
+  </image>
+  <image file='test/27.jpg'>
+    <box top='57' left='34' width='125' height='109'>
+      <label>YEILD</label>
+    </box>
+  </image>
+</images>
+</dataset>

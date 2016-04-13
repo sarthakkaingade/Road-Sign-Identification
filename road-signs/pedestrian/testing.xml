@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='test/21.jpg'>
+    <box top='11' left='16' width='136' height='132'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='test/22.jpg'>
+    <box top='3' left='84' width='112' height='107'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='test/23.jpg'>
+    <box top='89' left='44' width='34' height='31'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='test/24.jpg'>
+    <box top='22' left='13' width='162' height='161'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='test/25.jpg'>
+    <box top='45' left='72' width='118' height='104'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='test/26.jpg'>
+  </image>
+  <image file='test/27.jpg'>
+    <box top='77' left='335' width='130' height='118'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+</images>
+</dataset>

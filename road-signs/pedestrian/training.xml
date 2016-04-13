@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='train/10.jpg'>
+    <box top='12' left='12' width='125' height='125'>
+      <label>PEDESTRIAN</label>
+    </box>
+    <box top='21' left='238' width='32' height='26'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/11.jpg'>
+    <box top='21' left='239' width='30' height='26'>
+      <label>PEDESTRIAN</label>
+    </box>
+    <box top='14' left='17' width='117' height='119'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/12.jpg'>
+    <box top='44' left='180' width='71' height='61'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/13.jpg'>
+    <box top='0' left='135' width='108' height='115'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/14.jpg'>
+    <box top='29' left='133' width='43' height='37'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/15.jpg'>
+    <box top='26' left='9' width='157' height='146'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/16.jpg'>
+    <box top='36' left='159' width='90' height='84'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/17.jpg'>
+    <box top='54' left='174' width='67' height='74'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/18.jpg'>
+    <box top='53' left='223' width='39' height='35'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/19.jpg'>
+    <box top='52' left='69' width='83' height='82'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/1.jpg'>
+    <box top='14' left='15' width='189' height='182'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/20.jpg'>
+    <box top='63' left='55' width='90' height='89'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/2.jpg'>
+    <box top='2' left='170' width='75' height='70'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/3.jpg'>
+    <box top='28' left='130' width='110' height='109'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/4.jpg'>
+    <box top='29' left='124' width='62' height='72'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/5.jpg'>
+    <box top='116' left='151' width='35' height='33'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/6.jpg'>
+    <box top='27' left='134' width='102' height='111'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/7.jpg'>
+    <box top='60' left='192' width='36' height='27'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/8.jpg'>
+    <box top='2' left='190' width='36' height='51'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+  <image file='train/9.jpg'>
+    <box top='28' left='156' width='35' height='34'>
+      <label>PEDESTRIAN</label>
+    </box>
+  </image>
+</images>
+</dataset>

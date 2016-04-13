@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='test/41.jpg'>
+    <box top='14' left='176' width='60' height='65'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/42.jpg'>
+    <box top='54' left='121' width='39' height='41'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/43.jpg'>
+    <box top='25' left='15' width='72' height='86'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/44.jpg'>
+    <box top='48' left='43' width='85' height='100'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/45.jpg'>
+    <box top='4' left='185' width='45' height='47'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/46.jpg'>
+    <box top='16' left='206' width='49' height='55'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/47.jpg'>
+    <box top='19' left='152' width='59' height='73'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/48.jpg'>
+    <box top='13' left='52' width='75' height='89'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/49.jpg'>
+    <box top='36' left='183' width='60' height='69'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/50.jpg'>
+    <box top='23' left='188' width='54' height='63'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/51.jpg'>
+    <box top='41' left='231' width='43' height='51'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/52.jpg'>
+    <box top='71' left='220' width='31' height='35'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/53.jpg'>
+    <box top='47' left='55' width='67' height='82'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/54.jpg'>
+    <box top='31' left='222' width='36' height='43'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/55.jpg'>
+    <box top='6' left='116' width='113' height='126'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/56.jpg'>
+    <box top='6' left='58' width='141' height='167'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/57.jpg'>
+    <box top='26' left='45' width='61' height='71'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/58.jpg'>
+    <box top='7' left='135' width='62' height='60'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/59.jpg'>
+    <box top='91' left='46' width='28' height='31'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+  <image file='test/60.jpg'>
+    <box top='2' left='87' width='85' height='98'>
+      <label>SPEED-LIMIT</label>
+    </box>
+  </image>
+</images>
+</dataset>
