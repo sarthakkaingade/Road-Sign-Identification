@@ -3,6 +3,7 @@
  */
 
 #include <dlib/opencv.h>
+#include <opencv2/opencv.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/core/core.hpp>
 #include <dlib/svm_threaded.h>
@@ -38,6 +39,10 @@ int process_video(const std::string video_name, const unsigned long upsample_amo
         cout << "!!! Failed to open file: " << video_name << endl;
         return -1;
     }
+    if (video_name == "road.avi")   {
+        cap.set(CV_CAP_PROP_FRAME_WIDTH, 640);
+        cap.set(CV_CAP_PROP_FRAME_HEIGHT, 480);
+    }
 
     image_window win;
     while(1)  {
@@ -46,6 +51,8 @@ int process_video(const std::string video_name, const unsigned long upsample_amo
             cout << "Video sequence completed" << endl;
             break;
         }
+        if (video_name == "road.avi")
+        cv::resize(frame, frame, cv::Size(640,480), 0, 0, CV_INTER_CUBIC);
         //cv::namedWindow( "Display window", CV_WINDOW_AUTOSIZE );
         //cv::imshow( "Display window", frame );
         cv_image<bgr_pixel> img(frame);
@@ -59,7 +66,7 @@ int process_video(const std::string video_name, const unsigned long upsample_amo
         win.set_image(img);
         for (unsigned long j = 0; j < rects.size(); ++j) {
             win.add_overlay(rects[j].rect, signs[rects[j].weight_index].color,signs[rects[j].weight_index].name);
-            //sleep((unsigned int)1);
+            sleep((unsigned int)1);
         }
     }
     return 0;
